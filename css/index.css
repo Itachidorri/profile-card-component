@@ -43,6 +43,7 @@ body{
     bottom 15rem left -20rem,
     top 15rem right -20rem;
   background-repeat: no-repeat;
+  background-color: rgba(25,161,173,1);
 }
 
 .card-container{
@@ -106,6 +107,8 @@ body{
 
 .persona-info-horizontal{
   justify-content: space-between;
+  border-top: 1px solid lightgrey;
+  padding: 1rem 0 0 0 ;
 }
 
 h1, p{
