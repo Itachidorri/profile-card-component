@@ -63,7 +63,7 @@ Styling page cleverly using CSS properties:
 3. Multiple backgrounds - This is the first time I combined multiple svg images
 with a background color to create an aesthetic background. This effect is very
 easy to design.
-  '''CSS
+  ```CSS
   background-image:
     url(../img/bg-pattern-top.svg),
     url(../img/bg-pattern-bottom.svg);
@@ -72,7 +72,7 @@ easy to design.
     top 15rem right -20rem;
   background-repeat: no-repeat;
   background-color: rgba(25,161,173,1);
-  '''
+  ```
 
 
 ### Continued development
